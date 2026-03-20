@@ -11,8 +11,8 @@ Contents
 
 .. toctree::
 
-   scope/index
-   mappings/index
-   clinical-assessment/index
-   phenotype/index
-   OLS-setup/index
+   scope
+   mappings
+   clinical-assessment
+   phenotype
+   OLS-setup
